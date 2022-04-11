@@ -14,6 +14,8 @@ Django. Some awesome features are:
     [Celery](http://www.celeryproject.org)
 -   Uses multiprocessing (and threading) to send a large number of
     emails in parallel
+-   Test
+    
 
 ## Dependencies
 
